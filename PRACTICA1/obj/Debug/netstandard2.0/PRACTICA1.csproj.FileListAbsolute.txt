@@ -1,0 +1,17 @@
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.deps.json
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.dll
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\ref\PRACTICA1.dll
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\bin\Debug\netstandard2.0\PRACTICA1.pdb
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.csproj.AssemblyReference.cache
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\view\Home.xaml.g.cs
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.AssemblyInfoInputs.cache
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.AssemblyInfo.cs
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.csproj.CoreCompileInputs.cache
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.dll
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\refint\PRACTICA1.dll
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\PRACTICA1.pdb
+D:\ISACC\PRACTICA1\PRACTICA1\PRACTICA1\obj\Debug\netstandard2.0\view\Home2.xaml.g.cs

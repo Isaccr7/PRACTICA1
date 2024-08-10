@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PRACTICA1.view.Home2">
+    <ContentPage.Content >
+        <Grid RowDefinitions="*,*" Margin="10">
+            <Button Text="Hola" Grid.Column="0" BackgroundColor="Blue" TextColor="White" FontSize="Title" FontAttributes="Bold" CornerRadius="20"></Button>
+            <Button Text="Mundo" Grid.Column="1" BackgroundColor="Blue" TextColor="White" FontSize="Title" FontAttributes="Bold" CornerRadius="20"></Button>
+            <Image Grid.Column="1" Grid.Row="1" Source="https://st.depositphotos.com/1724125/1954/v/450/depositphotos_19547537-stock-illustration-cartoon-student.jpg"></Image>
+            <Image Grid.Column="0" Grid.Row="1" Source="https://img.freepik.com/premium-photo/hacker-hood-front-matrix-computer-hacker-hood-blurred-dark-face-ai-generative_407474-16426.jpg"></Image>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
